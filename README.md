@@ -46,8 +46,11 @@
 ## Output
 
 
-### Name:
-### Register Number: 
+### Name:Sai Kripa SK
+### Register Number: 24005319
+
+![Screenshot 2024-10-21 104755](https://github.com/user-attachments/assets/28f1a19f-d0e4-41df-8dea-0462f728cfb6)
+![Screenshot 2024-10-21 104730](https://github.com/user-attachments/assets/27dbccea-ea5e-4349-8c88-9e8f97522928)
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
